@@ -14,6 +14,6 @@ Written from real troubleshooting and deployment work, not general tutorials —
 
 ### About me
 
-Red Hat Certified Linux & Automation Engineer (RHCE, RHCSA) working with RHEL, Ansible Automation Platform, and Red Hat Satellite — currently expanding into OpenShift Virtualization and platform engineering.
+Red Hat Certified Linux & Automation Engineer (RHCE, RHCSA) working with RHEL, Ansible Automation Platform, and Red Hat Satellite — currently expanding into Openshift/kubernetes & OpenShift Virtualization and platform engineering.
 
 [LinkedIn](https://www.linkedin.com/in/adedapoap) · [Profile README](https://github.com/AdedapoAduroja)
