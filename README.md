@@ -8,7 +8,7 @@ Written from real troubleshooting and deployment work, not general tutorials —
 
 - **[CentOS to RHEL Conversion Guide](./centos-to-rhel-conversion-guide.md)** — Step-by-step conversion process using `convert2rhel`, including Satellite registration setup and the SSL/CA certificate issue that blocks conversion in Satellite-managed environments.
 
-- **[OpenShift Virtualization Expansion — Deployment Runbook](./openshift-virtualization-expansion.md)** — Full runbook for expanding an OpenShift cluster with dedicated virtualization worker nodes: iDRAC provisioning, CSR approval, MachineConfigPool setup, ODF storage integration, NMState networking (bonds/bridges/NADs), and HyperConverged configuration.
+- **[OpenShift Virtualization Expansion — Deployment Runbook](./openshift-virtualization-expansion.md)** — Full runbook for expanding an OpenShift cluster with dedicated virtualization worker nodes using the Assisted Installer method: iDRAC provisioning, CSR approval, MachineConfigPool setup, ODF storage integration, NMState networking (bonds/bridges/NADs), and HyperConverged configuration.
 
 ---
 
